@@ -1,0 +1,1 @@
+it provides a software framework for distributed storage and processing of big data using the mapreduce programming model.

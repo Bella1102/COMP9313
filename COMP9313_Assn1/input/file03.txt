@@ -1,0 +1,1 @@
+originally designed for computer clusters built from commodity hardware it has also found use on clusters of higher end hardware. hadoop is a part of apache foundation.

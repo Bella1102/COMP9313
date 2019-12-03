@@ -1,0 +1,7 @@
+http://subdom0001.example.com,/endpoint0001,GET,3B
+http://subdom0002.example.com,/endpoint0002,GET,431MB
+http://subdom0003.example.com,/endpoint0003,GET,231KB
+http://subdom0002.example.com,/endpoint0002,GET,29MB
+http://subdom0001.example.com,/endpoint0001,GET,238B
+http://subdom0002.example.com,/endpoint0001,GET,32MB
+http://subdom0003.example.com,/endpoint0003,GET,21KB
